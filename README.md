@@ -1,9 +1,7 @@
-```
+# Portfólio 
+Olá, Bem vindo ao meu projeto de portfólio.
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-
-![image]([https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png](https://github.com/Fialhoalves/Portfolio-HTML-e-CSS/blob/ef130d8000bbc70ff22a331f39907d6393e23998/assets/Imagem.jpg))
-
+![amostra_site](https://github.com/user-attachments/assets/57e6beca-9b45-49a6-ae1d-3999e1ab54ab)
 ## Ferramentas utilizadas:
 
 * HTML
@@ -18,4 +16,4 @@
 
 ### Instagram: https://www.instagram.com/fialhovinicius/
 
-```
+
