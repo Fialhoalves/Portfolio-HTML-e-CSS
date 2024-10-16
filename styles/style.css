@@ -70,6 +70,12 @@ body{
     font-size: 2.25rem;
 }
 
+.tab{
+    padding-top: 1em;
+    padding-left: 1em;
+}
+
+
 .apresentacao__sobremim__texto{
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
